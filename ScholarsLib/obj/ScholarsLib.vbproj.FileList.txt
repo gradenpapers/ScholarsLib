@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ScholarsLib.About.resources
+obj\Debug\ScholarsLib.Home.resources
+obj\Debug\ScholarsLib.Login.resources
+obj\Debug\ScholarsLib.Resources.resources
+obj\Debug\ScholarsLib.vbproj.GenerateResource.Cache
+bin\Debug\ScholarsLib.exe
+bin\Debug\ScholarsLib.pdb
+bin\Debug\ScholarsLib.xml
+obj\Debug\ScholarsLib.exe
+obj\Debug\ScholarsLib.xml
+obj\Debug\ScholarsLib.pdb

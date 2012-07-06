@@ -1,0 +1,17 @@
+C:\Users\gkirksey.CIUSA\Documents\Visual Studio 2005\Projects\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.exe
+C:\Users\gkirksey.CIUSA\Documents\Visual Studio 2005\Projects\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.xml
+C:\Users\gkirksey.CIUSA\Documents\Visual Studio 2005\Projects\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.pdb
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.exe
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.xml
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.pdb
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\bin\Debug\ScholarsLib.exe.config
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\bin\Debug\ScholarsLib.exe
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\bin\Debug\ScholarsLib.pdb
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\bin\Debug\ScholarsLib.xml
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.About.resources
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.Home.resources
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.Login.resources
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\ScholarsLib.Resources.resources
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gkirksey\Documents\Visual Studio 2008\ScholarsLib\ScholarsLib\obj\Debug\GenerateResource.write.1.tlog
